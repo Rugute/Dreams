@@ -54,14 +54,14 @@ Namespace My
             End Get
         End Property
         
-        <Global.System.Configuration.ApplicationScopedSettingAttribute(),  _
-         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-         Global.System.Configuration.SpecialSettingAttribute(Global.System.Configuration.SpecialSetting.ConnectionString),  _
-         Global.System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-510NGH8;Initial Catalog=Dreams;Persist Security Info=True;Use"& _ 
-            "r ID=sa;Password=12345")>  _
-        Public ReadOnly Property connectionStrings() As String
+        <Global.System.Configuration.ApplicationScopedSettingAttribute(), _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(), _
+         Global.System.Configuration.SpecialSettingAttribute(Global.System.Configuration.SpecialSetting.ConnectionString), _
+         Global.System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-510NGH8;Initial Catalog=Dreams;Persist Security Info=True;Use" & _
+            "r ID=sa;Password=12345")> _
+        Public ReadOnly Property ConnectString() As String
             Get
-                Return CType(Me("connectionStrings"),String)
+                Return CType(Me("ConnectString"), String)
             End Get
         End Property
     End Class

@@ -1,0 +1,9 @@
+D:\Path\Dreams\Dreams\Dreams\bin\Dreams.dll.config
+D:\Path\Dreams\Dreams\Dreams\bin\Dreams.dll
+D:\Path\Dreams\Dreams\Dreams\bin\Dreams.pdb
+D:\Path\Dreams\Dreams\Dreams\bin\Dreams.xml
+D:\Path\Dreams\Dreams\Dreams\obj\Debug\Dreams.Resources.resources
+D:\Path\Dreams\Dreams\Dreams\obj\Debug\Dreams.vbproj.GenerateResource.Cache
+D:\Path\Dreams\Dreams\Dreams\obj\Debug\Dreams.dll
+D:\Path\Dreams\Dreams\Dreams\obj\Debug\Dreams.xml
+D:\Path\Dreams\Dreams\Dreams\obj\Debug\Dreams.pdb
