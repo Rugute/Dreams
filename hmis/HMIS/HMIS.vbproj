@@ -168,7 +168,7 @@
     </Compile>
     <Compile Include="Admin\default.aspx.vb">
       <DependentUpon>default.aspx</DependentUpon>
-      <SubType>ASPXCodebehind</SubType>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Admin\login.aspx.designer.vb">
       <DependentUpon>login.aspx</DependentUpon>
@@ -179,7 +179,6 @@
     </Compile>
     <Content Include="App_Code\ConnectionCls.vb" />
     <Compile Include="App_Code\currentFacility.vb" />
-    <Content Include="App_Code\OpenTable.vb" />
     <Compile Include="Dreams.Master.designer.vb">
       <DependentUpon>Dreams.Master</DependentUpon>
     </Compile>
@@ -223,6 +222,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="OpenTable.vb" />
     <Compile Include="Registration\Interventions.aspx.designer.vb">
       <DependentUpon>Interventions.aspx</DependentUpon>
     </Compile>

@@ -12,7 +12,7 @@ Public Class _default
     Private connectionString As String = _
 WebConfigurationManager.ConnectionStrings("IRDOHMIS").ConnectionString
 
- 
+
 
     Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
         'If Me.IsPostBack Then
@@ -66,48 +66,71 @@ WebConfigurationManager.ConnectionStrings("IRDOHMIS").ConnectionString
 
     Protected Sub ValidateUser(sender As Object, e As AuthenticateEventArgs) Handles Login1.Authenticate
         Try
-            Dim userId As Integer = 0
+            'Start of OpenTables Connection Class
             Dim roles As String = String.Empty
-            Dim constr As String = ConfigurationManager.ConnectionStrings("IRDOHMIS").ConnectionString
-            Using con As New SqlConnection(constr)
-                Using cmd As New SqlCommand("Validate_User")
-                    cmd.CommandType = CommandType.StoredProcedure
-                    cmd.Parameters.AddWithValue("@Username", Login1.UserName)
-                    cmd.Parameters.AddWithValue("@Password", Login1.Password)
-                    cmd.Connection = con
-                    con.Open()
-                    Dim reader As SqlDataReader = cmd.ExecuteReader()
-                    reader.Read()
-                    userId = Convert.ToInt32(reader("UserId"))
-                    roles = reader("Roles").ToString()
-                    con.Close()
-                End Using
+            ' Dim userId As Integer = 0
+            Dim sql As String = "select * from users where username='" + Login1.UserName + "' and password='" + Login1.Password + "'"
+            Dim dt As DataTable = OpenTable.Query(sql)
+            If dt.Rows.Count > 0 Then
+
+                Dim ticket As New FormsAuthenticationTicket(1, Login1.UserName, DateTime.Now, DateTime.Now.AddMinutes(2880), Login1.RememberMeSet, roles, _
+                        FormsAuthentication.FormsCookiePath)
+                Dim hash As String = FormsAuthentication.Encrypt(ticket)
+                Dim cookie As New HttpCookie(FormsAuthentication.FormsCookieName, hash)
+
+                If ticket.IsPersistent Then
+                    cookie.Expires = ticket.Expiration
+                End If
+                Response.Cookies.Add(cookie)
+                Response.Redirect(FormsAuthentication.GetRedirectUrl(Login1.UserName, Login1.RememberMeSet))
+
+            Else
+                Login1.FailureText = "Username and/or password is incorrect."
+            End If
+
+            ' End of the test OpenTables Class and Function for login
+            'Dim userId As Integer = 0
+            'Dim roles As String = String.Empty
+            'Dim constr As String = ConfigurationManager.ConnectionStrings("IRDOHMIS").ConnectionString
+            'Using con As New SqlConnection(constr)
+            '    Using cmd As New SqlCommand("Validate_User")
+            '        cmd.CommandType = CommandType.StoredProcedure
+            '        cmd.Parameters.AddWithValue("@Username", Login1.UserName)
+            '        cmd.Parameters.AddWithValue("@Password", Login1.Password)
+            '        cmd.Connection = con
+            '        con.Open()
+            '        Dim reader As SqlDataReader = cmd.ExecuteReader()
+            '        reader.Read()
+            '        userId = Convert.ToInt32(reader("UserId"))
+            '        roles = reader("Roles").ToString()
+            '        con.Close()
+            '    End Using
 
 
 
-                Select Case userId
-                    Case -1
-                        Login1.FailureText = "Username and/or password is incorrect."
-                        Exit Select
-                    Case -2
-                        Login1.FailureText = "Account has not been activated."
-                        Exit Select
-                    Case Else
-                        Dim ticket As New FormsAuthenticationTicket(1, Login1.UserName, DateTime.Now, DateTime.Now.AddMinutes(2880), Login1.RememberMeSet, roles, _
-                         FormsAuthentication.FormsCookiePath)
-                        Dim hash As String = FormsAuthentication.Encrypt(ticket)
-                        Dim cookie As New HttpCookie(FormsAuthentication.FormsCookieName, hash)
+            '    Select Case userId
+            '        Case -1
+            '            Login1.FailureText = "Username and/or password is incorrect."
+            '            Exit Select
+            '        Case -2
+            '            Login1.FailureText = "Account has not been activated."
+            '            Exit Select
+            '        Case Else
+            '            Dim ticket As New FormsAuthenticationTicket(1, Login1.UserName, DateTime.Now, DateTime.Now.AddMinutes(2880), Login1.RememberMeSet, roles, _
+            '             FormsAuthentication.FormsCookiePath)
+            '            Dim hash As String = FormsAuthentication.Encrypt(ticket)
+            '            Dim cookie As New HttpCookie(FormsAuthentication.FormsCookieName, hash)
 
-                        If ticket.IsPersistent Then
-                            cookie.Expires = ticket.Expiration
-                        End If
-                        Response.Cookies.Add(cookie)
-                        Response.Redirect(FormsAuthentication.GetRedirectUrl(Login1.UserName, Login1.RememberMeSet))
+            '            If ticket.IsPersistent Then
+            '                cookie.Expires = ticket.Expiration
+            '            End If
+            '            Response.Cookies.Add(cookie)
+            '            Response.Redirect(FormsAuthentication.GetRedirectUrl(Login1.UserName, Login1.RememberMeSet))
 
 
-                        Exit Select
-                End Select
-            End Using
+            '            Exit Select
+            '    End Select
+            'End Using
         Catch ex As Exception
 
         End Try
