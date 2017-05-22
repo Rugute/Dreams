@@ -1,0 +1,46 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Dreams.master.vb" Inherits="HMIS.Dreams" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+
+<%--        <link href="~/Styles/normalize.css" rel="stylesheet" type="text/css" />
+    <link href="~/Styles/datepicker.css" rel="stylesheet" type="text/css" /> --%>
+    <script src="/Scripts/jquery-1.12.3.js" type="text/javascript" ></script>
+    <script src="/Scripts/jquery-1.12.3.min.js" type="text/javascript" ></script>
+    <script src="/Scripts/jquery-ui-1.11.4.js" type="text/javascript" ></script>
+    <script src="/Scripts/jquery-ui-1.11.4.min.js" type="text/javascript" ></script>
+        
+       <title>DREAMS Enrolment Form</title>
+    <link href="~/style/dreams.css" type="text/css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+                           
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <table style="width:100%; margin-left:auto;margin-right:auto;">
+            <tr style="width:100%">
+                <td style="width:10%;text-align:left;border-color:red;border:none !important;"><div style="text-align:center"><asp:image id="img"  runat="server" imageurl="~/img/dreams/logosmall.png"/>
+                    &nbsp;<asp:image id="longlogo"  runat="server" imageurl="~/img/dreams/logo_long_Small.png"/>
+                    &nbsp;<asp:image id="Logo_long_msg"  runat="server" imageurl="~/img/dreams/Logo_long_msg_Small.png"/>
+                    &nbsp;<asp:image id="IRDOLogo"  runat="server" imageurl="~/img/IRDO_Small.png"/></div>
+                </td>
+            <td style="width:50px"><span style="width:50px"><asp:Label ID="lblFullName"  class="UserName" runat="server" Text=""></asp:Label></span></td>
+            </tr>
+            <tr style="width:100%; margin-left:auto;margin-right:auto;">
+                <td style="width:100%; margin-left:auto;margin-right:auto;">
+                        <div style="width:100%; margin-left:auto;margin-right:auto;">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+                </td>
+
+            </tr>
+        </table>
+
+    </form>
+</body>
+</html>

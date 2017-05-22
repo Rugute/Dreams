@@ -1,0 +1,127 @@
+﻿body
+{
+	padding: 0px;
+	font: 100% calibri;
+	color: #333;
+	background-color:#000000;
+	margin: 0;
+	text-align: left;
+background:url(/img/dreams/backg.png) no-repeat top left;
+
+}
+
+.salesoutertable{
+    width:100%;
+    background-color:#000000;
+}
+
+.label_fac{
+    padding:5px;
+    font-family:Calibri;
+    font-size:12pt;
+    float:left;
+    color:white;
+
+
+}        
+
+ .textox {
+   width: 80%;
+   height: 20px;
+   border: solid 2px #00E3E3;
+   padding: 2px;
+   border-radius: 5px;
+   font-size: 13px;
+   box-shadow: 0px 1px 2px 0px #9C9C9C;
+   background-color: #FFFFFF;
+   outline: none;
+   color: #474747;
+   float:left;
+   margin-left:10px;
+   padding: 5px;
+  }
+
+ .textoxdd {
+   /*width: 30px;
+   height: 20px;*/
+   border: solid 2px #00E3E3;
+   padding: 5px;
+   border-radius: 5px;
+   font-size: 13px;
+   box-shadow: 0px 1px 2px 0px #9C9C9C;
+   background-color: #FFFFFF;
+   outline: none;
+   color: #474747;
+   width:0 auto;
+   /*float:left;*/
+   /*margin-left:10px;*/
+  }
+ 
+.TabContainer
+      {
+         font: bold 0.75em Verdana;
+         width: 60em;
+         margin-top: 1.5em;
+         padding-top: 2em;
+      }
+      .TabItemInactive
+      {
+         border-top: 1px solid white;
+         border-left: 1px solid white;
+         border-right: 1px solid #aaaaaa;
+         border-bottom: none;      
+         background-color: #d3d3d3;  
+         text-align: center; 
+         text-decoration: none;
+         padding: 0.75em 0.25em 0 0.25em;
+      }
+
+      .TabItemInactive:hover
+      {
+         background: #808080;
+      }   
+      .TabItemActive
+      {     
+         border-top: 1px solid white;
+         border-left: none;
+         border-right: 1px solid #aaaaaa;
+         border-bottom: none;
+         text-decoration: none;
+         background-color: #bbbbbb;  
+         text-align: center;   
+         padding: 0.75em 0.25em 0 0.25em;
+      }
+
+      .ContentPanel
+      {
+         background-color: #bbbbbb; 
+         padding: 10px 10px 10px 10px;
+         width: 60em;
+         font: 0.8em Verdana;
+      }
+
+    button_fac {
+    padding-bottom: 2px;
+    text-align: left;
+    background-color: #ccc2a6;
+    Width:250px;
+}
+
+    input[type="checkbox"] {
+    width: 24px;
+    height: 24px;
+    vertical-align: central;
+}
+label.checkbox {
+    vertical-align: top;
+    line-height: 24px;
+    margin: 2px 0;
+    display: block;
+    height: 24px;
+}
+
+.NavButton{
+    border: 1px solid #006;
+    background: #9cf;
+    width:100px;
+}
