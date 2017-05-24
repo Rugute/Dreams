@@ -19,7 +19,8 @@ Protected Sub cmdLogin_Click(sender As Object, e As EventArgs)
         End If
 
         Try
-            'Response.Redirect("~/Admin/Home.aspx")
+'ResolveUrl("~/Admin/Home.aspx")
+         '   Response.Redirect("~/Admin/Home.aspx")
             Server.Transfer("~/Admin/Home.aspx")
         Catch ex As Exception
             ex.Message.ToString()

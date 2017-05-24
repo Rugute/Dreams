@@ -1,19 +1,23 @@
 ﻿Imports System.Web.SessionState
-Imports System.Web.UI
+Imports System.Web.Routing
 
 Public Class Global_asax
     Inherits System.Web.HttpApplication
 
     Sub Application_Start(ByVal sender As Object, ByVal e As EventArgs)
         ' Fires when the application is started
-        'ScriptManager.ScriptResourceMapping.AddDefinition("jquery", New ScriptResourceDefinition() With {.Path = "~/Scripts/jquery-1.12.3.min.js",
-        '.DebugPath = "~/Scripts/jquery-1.12.3.js"
-        '})
+        RegisterRoutes(RouteTable.Routes)
 
+    End Sub
+    Private Shared Sub RegisterRoutes(routes As RouteCollection)
+        routes.MapPageRoute("Login", "Login", "~/Default.aspx")
+        routes.MapPageRoute("Screening", "Screening", "~/Surveys/frmScreening.aspx")
+        routes.MapPageRoute("Dashoard", "Dashboard", "~/Admin/Home.aspx")
     End Sub
 
     Sub Session_Start(ByVal sender As Object, ByVal e As EventArgs)
         ' Fires when the session is started
+        ' RegisterRoutes(RouteTable.Routes)
     End Sub
 
     Sub Application_BeginRequest(ByVal sender As Object, ByVal e As EventArgs)

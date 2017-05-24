@@ -294,6 +294,7 @@
     <Content Include="Styles\datepicker.css" />
     <Content Include="Styles\dreams.css" />
     <Content Include="Styles\normalize.css" />
+    <Content Include="Surveys\frmScreening.aspx" />
     <Content Include="weeklycalendar.js" />
     <Content Include="Scripts\jquery-2.2.3.min.map" />
     <Content Include="Styles\VMMC.css" />
@@ -424,6 +425,13 @@
     </Compile>
     <Compile Include="SessionOut.aspx.vb">
       <DependentUpon>SessionOut.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Surveys\frmScreening.aspx.designer.vb">
+      <DependentUpon>frmScreening.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Surveys\frmScreening.aspx.vb">
+      <DependentUpon>frmScreening.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="VMMC\vmmc.aspx.designer.vb">

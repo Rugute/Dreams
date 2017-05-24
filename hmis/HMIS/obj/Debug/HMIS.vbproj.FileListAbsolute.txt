@@ -1,0 +1,12 @@
+D:\DreamsPro\hmis\HMIS\bin\HMIS.dll.config
+D:\DreamsPro\hmis\HMIS\bin\HMIS.dll
+D:\DreamsPro\hmis\HMIS\bin\HMIS.pdb
+D:\DreamsPro\hmis\HMIS\bin\HMIS.xml
+D:\DreamsPro\hmis\HMIS\bin\AspNet.ScriptManager.jQuery.dll
+D:\DreamsPro\hmis\HMIS\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\DreamsPro\hmis\HMIS\obj\Debug\HMIS.vbprojResolveAssemblyReference.cache
+D:\DreamsPro\hmis\HMIS\obj\Debug\HMIS.Resources.resources
+D:\DreamsPro\hmis\HMIS\obj\Debug\HMIS.vbproj.GenerateResource.Cache
+D:\DreamsPro\hmis\HMIS\obj\Debug\HMIS.dll
+D:\DreamsPro\hmis\HMIS\obj\Debug\HMIS.xml
+D:\DreamsPro\hmis\HMIS\obj\Debug\HMIS.pdb

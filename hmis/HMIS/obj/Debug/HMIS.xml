@@ -1,0 +1,6508 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+HMIS
+</name>
+</assembly>
+<members>
+<member name="F:HMIS.frmScreening.from1">
+	<summary>
+from1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.frmScreening.txtCountyy">
+	<summary>
+txtCountyy control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.frmScreening.txtSubCounty">
+	<summary>
+txtSubCounty control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.frmScreening.txtWard">
+	<summary>
+txtWard control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.frmScreening.txtVillage">
+	<summary>
+txtVillage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.frmScreening.txtSite">
+	<summary>
+txtSite control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.frmScreening.TextBox1">
+	<summary>
+TextBox1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.frmScreening.TextBox2">
+	<summary>
+TextBox2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.frmScreening.TextBox3">
+	<summary>
+TextBox3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.frmScreening.TextBox4">
+	<summary>
+TextBox4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.frmScreening.TextBox5">
+	<summary>
+TextBox5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Main.mainHolder">
+	<summary>
+mainHolder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS._Default1.ddFaciltiy">
+	<summary>
+ddFaciltiy control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS._Default1.cmdLogin">
+	<summary>
+cmdLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.login.Login1">
+	<summary>
+Login1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:HMIS.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:HMIS.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:HMIS.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:HMIS.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:HMIS.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="T:HMIS.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:HMIS.Registration_edit.Panel1">
+	<summary>
+Panel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.lblUserId">
+	<summary>
+lblUserId control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.lblResults">
+	<summary>
+lblResults control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.lblClientUniqCode">
+	<summary>
+lblClientUniqCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.txtClientUniqCode">
+	<summary>
+txtClientUniqCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.lblTransId">
+	<summary>
+lblTransId control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.lblFullClientName">
+	<summary>
+lblFullClientName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.txtFullClientName">
+	<summary>
+txtFullClientName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.ddFacilityDistrict">
+	<summary>
+ddFacilityDistrict control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.ddPersonDistrict">
+	<summary>
+ddPersonDistrict control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.txtRegDate">
+	<summary>
+txtRegDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.RequiredFieldValidatortxtRegDate">
+	<summary>
+RequiredFieldValidatortxtRegDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.cmpDate">
+	<summary>
+cmpDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.RegularExpressionValidator_txtRegDate">
+	<summary>
+RegularExpressionValidator_txtRegDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.txtClientNo">
+	<summary>
+txtClientNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.RequiredFieldValidatortxtClientNo">
+	<summary>
+RequiredFieldValidatortxtClientNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.lblIRDOReference">
+	<summary>
+lblIRDOReference control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.hfIRDOReference">
+	<summary>
+hfIRDOReference control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.txtIRDOReference">
+	<summary>
+txtIRDOReference control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.lblDistricCode">
+	<summary>
+lblDistricCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.lblIRDOINT">
+	<summary>
+lblIRDOINT control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.txtSurname">
+	<summary>
+txtSurname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.RequiredtxtAuditDate">
+	<summary>
+RequiredtxtAuditDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.txtOthernames">
+	<summary>
+txtOthernames control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.RequiredFieldValidator_txtOthernames">
+	<summary>
+RequiredFieldValidator_txtOthernames control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.txtDOB">
+	<summary>
+txtDOB control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.CompaDOB">
+	<summary>
+CompaDOB control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.ComptxtDOB">
+	<summary>
+ComptxtDOB control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.RegularExpressionValidator1">
+	<summary>
+RegularExpressionValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.txtAge">
+	<summary>
+txtAge control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.RequiredFieldValidatortxtAge">
+	<summary>
+RequiredFieldValidatortxtAge control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.ddgender">
+	<summary>
+ddgender control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.RequiredFieldValidatorddgender">
+	<summary>
+RequiredFieldValidatorddgender control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.ddLocation">
+	<summary>
+ddLocation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.RequiredFieldValidatorddLocation">
+	<summary>
+RequiredFieldValidatorddLocation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.ddDivision">
+	<summary>
+ddDivision control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.RequiredFieldValidatorddDivision">
+	<summary>
+RequiredFieldValidatorddDivision control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.ddDistrict">
+	<summary>
+ddDistrict control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.RequiredFieldValidatorddDistrict">
+	<summary>
+RequiredFieldValidatorddDistrict control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.ddNearestHF">
+	<summary>
+ddNearestHF control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.RequiredFieldValidatorddNearestHF">
+	<summary>
+RequiredFieldValidatorddNearestHF control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.txtPhoneNo">
+	<summary>
+txtPhoneNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.txtIDNo">
+	<summary>
+txtIDNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.ddEducatLevel">
+	<summary>
+ddEducatLevel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.RequiredFieldValidatorddEducatLevel">
+	<summary>
+RequiredFieldValidatorddEducatLevel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.ddReligion">
+	<summary>
+ddReligion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.txtRelOther">
+	<summary>
+txtRelOther control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.ddMaritalStatus">
+	<summary>
+ddMaritalStatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.RequiredFieldValidatorddMaritalStatus">
+	<summary>
+RequiredFieldValidatorddMaritalStatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.ddRecruitingIntv">
+	<summary>
+ddRecruitingIntv control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.RequiredFieldValidatorddRecruitingIntv">
+	<summary>
+RequiredFieldValidatorddRecruitingIntv control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.txtCardIssuer">
+	<summary>
+txtCardIssuer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.cmdSave">
+	<summary>
+cmdSave control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration_edit.cmdAddIntv">
+	<summary>
+cmdAddIntv control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.Panel1">
+	<summary>
+Panel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.lblUserId">
+	<summary>
+lblUserId control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.lblResults">
+	<summary>
+lblResults control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.lblClientUniqCode">
+	<summary>
+lblClientUniqCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.txtDistricCode">
+	<summary>
+txtDistricCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.lblClientIDPad">
+	<summary>
+lblClientIDPad control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.txtFacilityDistrict">
+	<summary>
+txtFacilityDistrict control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.ddPersonDistrict">
+	<summary>
+ddPersonDistrict control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.txtRegDate">
+	<summary>
+txtRegDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.RequiredFieldValidatortxtRegDate">
+	<summary>
+RequiredFieldValidatortxtRegDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.cmpDate">
+	<summary>
+cmpDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.RegularExpressionValidator_txtRegDate">
+	<summary>
+RegularExpressionValidator_txtRegDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.txtClientNo">
+	<summary>
+txtClientNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.RequiredFieldValidatortxtClientNo">
+	<summary>
+RequiredFieldValidatortxtClientNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.lblIRDOReference">
+	<summary>
+lblIRDOReference control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.hfIRDOReference">
+	<summary>
+hfIRDOReference control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.txtIRDOReference">
+	<summary>
+txtIRDOReference control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.lblDistricCode">
+	<summary>
+lblDistricCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.lblIRDOINT">
+	<summary>
+lblIRDOINT control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.txtSurname">
+	<summary>
+txtSurname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.RequiredtxtAuditDate">
+	<summary>
+RequiredtxtAuditDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.txtOthernames">
+	<summary>
+txtOthernames control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.RequiredFieldValidator_txtOthernames">
+	<summary>
+RequiredFieldValidator_txtOthernames control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.txtDOB">
+	<summary>
+txtDOB control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.CompaDOB">
+	<summary>
+CompaDOB control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.ComptxtDOB">
+	<summary>
+ComptxtDOB control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.RegularExpressionValidator1">
+	<summary>
+RegularExpressionValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.txtAge">
+	<summary>
+txtAge control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.RequiredFieldValidatortxtAge">
+	<summary>
+RequiredFieldValidatortxtAge control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.ddgender">
+	<summary>
+ddgender control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.RequiredFieldValidatorddgender">
+	<summary>
+RequiredFieldValidatorddgender control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.ddLocation">
+	<summary>
+ddLocation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.RequiredFieldValidatorddLocation">
+	<summary>
+RequiredFieldValidatorddLocation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.ddDivision">
+	<summary>
+ddDivision control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.RequiredFieldValidatorddDivision">
+	<summary>
+RequiredFieldValidatorddDivision control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.ddDistrict">
+	<summary>
+ddDistrict control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.RequiredFieldValidatorddDistrict">
+	<summary>
+RequiredFieldValidatorddDistrict control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.ddNearestHF">
+	<summary>
+ddNearestHF control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.RequiredFieldValidatorddNearestHF">
+	<summary>
+RequiredFieldValidatorddNearestHF control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.txtPhoneNo">
+	<summary>
+txtPhoneNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.txtIDNo">
+	<summary>
+txtIDNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.ddEducatLevel">
+	<summary>
+ddEducatLevel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.RequiredFieldValidatorddEducatLevel">
+	<summary>
+RequiredFieldValidatorddEducatLevel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.ddReligion">
+	<summary>
+ddReligion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.txtRelOther">
+	<summary>
+txtRelOther control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.ddMaritalStatus">
+	<summary>
+ddMaritalStatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.RequiredFieldValidatorddMaritalStatus">
+	<summary>
+RequiredFieldValidatorddMaritalStatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.ddRecruitingIntv">
+	<summary>
+ddRecruitingIntv control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.RequiredFieldValidatorddRecruitingIntv">
+	<summary>
+RequiredFieldValidatorddRecruitingIntv control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.txtCardIssuer">
+	<summary>
+txtCardIssuer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Registration.cmdSave">
+	<summary>
+cmdSave control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.SessionOut.hlGoToLogin">
+	<summary>
+hlGoToLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Interventions.Panel1">
+	<summary>
+Panel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Interventions.lblUserId">
+	<summary>
+lblUserId control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Interventions.lblResults">
+	<summary>
+lblResults control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Interventions.lblClientUniqCode">
+	<summary>
+lblClientUniqCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Interventions.txtClientUniqCode">
+	<summary>
+txtClientUniqCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Interventions.lblTransId">
+	<summary>
+lblTransId control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Interventions.txtRegVisitDate">
+	<summary>
+txtRegVisitDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Interventions.ddErgInterventionId">
+	<summary>
+ddErgInterventionId control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Interventions.cmdAddIntv">
+	<summary>
+cmdAddIntv control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Interventions.lblFullClientName">
+	<summary>
+lblFullClientName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Interventions.GridView1">
+	<summary>
+GridView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.search.Panel1">
+	<summary>
+Panel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.search.lblFacilityName">
+	<summary>
+lblFacilityName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.search.lblClientUniqCode">
+	<summary>
+lblClientUniqCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.search.lblTransId">
+	<summary>
+lblTransId control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.search.txtClientUniqCode">
+	<summary>
+txtClientUniqCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.search.lblFullClientName">
+	<summary>
+lblFullClientName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.search.txtFullClientName">
+	<summary>
+txtFullClientName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.search.txtSearch">
+	<summary>
+txtSearch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.search.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.search.gvCustomers">
+	<summary>
+gvCustomers control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.search.lnkDummy">
+	<summary>
+lnkDummy control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.lblErrorMsg">
+	<summary>
+lblErrorMsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtClientnumber">
+	<summary>
+txtClientnumber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.RequiredFieldValidator_txtClientnumber">
+	<summary>
+RequiredFieldValidator_txtClientnumber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtVisitDate">
+	<summary>
+txtVisitDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.lblVMMCNo">
+	<summary>
+lblVMMCNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.RequiredFieldValidatortxtVisitDate">
+	<summary>
+RequiredFieldValidatortxtVisitDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.cmpDate">
+	<summary>
+cmpDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.RegularExpressionValidator_txtVisitDate">
+	<summary>
+RegularExpressionValidator_txtVisitDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.lblIRDOReference">
+	<summary>
+lblIRDOReference control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.lblFacilityDistrict">
+	<summary>
+lblFacilityDistrict control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtVMMCNo">
+	<summary>
+txtVMMCNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtDistrictCode">
+	<summary>
+txtDistrictCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.pnlTemp">
+	<summary>
+pnlTemp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.lblFacilityCode">
+	<summary>
+lblFacilityCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.lblDistId">
+	<summary>
+lblDistId control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.lblClientUniqCode">
+	<summary>
+lblClientUniqCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.lblUniversalNumber">
+	<summary>
+lblUniversalNumber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtFacilityNameHid">
+	<summary>
+txtFacilityNameHid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtFacilitySubLocHid">
+	<summary>
+txtFacilitySubLocHid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtFacilityDistrictHid">
+	<summary>
+txtFacilityDistrictHid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtFacilityCountryHid">
+	<summary>
+txtFacilityCountryHid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.lblDistrictCode">
+	<summary>
+lblDistrictCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtFacilityRegNumber">
+	<summary>
+txtFacilityRegNumber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.RequiredFieldValidator_txtFacilityRegNumber">
+	<summary>
+RequiredFieldValidator_txtFacilityRegNumber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtFacilityName">
+	<summary>
+txtFacilityName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.RequiredFieldValidator_txtFacilityName">
+	<summary>
+RequiredFieldValidator_txtFacilityName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.ctlContentPlaceHolder_DeliveryType">
+	<summary>
+ctlContentPlaceHolder_DeliveryType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.RequiredFieldValidator_DeliveryType">
+	<summary>
+RequiredFieldValidator_DeliveryType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtFacilityVillage">
+	<summary>
+txtFacilityVillage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.RequiredtxtFacilityVillage">
+	<summary>
+RequiredtxtFacilityVillage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtFacilitySubLoc">
+	<summary>
+txtFacilitySubLoc control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtFacilityDistrict">
+	<summary>
+txtFacilityDistrict control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtFacilityCountry">
+	<summary>
+txtFacilityCountry control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.ddClientNumber">
+	<summary>
+ddClientNumber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtA1_ClientName">
+	<summary>
+txtA1_ClientName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtA2_ClientAge">
+	<summary>
+txtA2_ClientAge control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtA3_ClientPhoneContact">
+	<summary>
+txtA3_ClientPhoneContact control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtA4_ClientVillage">
+	<summary>
+txtA4_ClientVillage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtA4_ClientResidenceDistrict">
+	<summary>
+txtA4_ClientResidenceDistrict control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtA4_ClientResidenceSubLoc">
+	<summary>
+txtA4_ClientResidenceSubLoc control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtA4_ClientResidenceCounty">
+	<summary>
+txtA4_ClientResidenceCounty control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.ddA5_InfoSource">
+	<summary>
+ddA5_InfoSource control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtA5_InfoSourceOther">
+	<summary>
+txtA5_InfoSourceOther control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.ddB1_FacResult">
+	<summary>
+ddB1_FacResult control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.ddB1_SelfResult">
+	<summary>
+ddB1_SelfResult control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.ddB1_PartResult">
+	<summary>
+ddB1_PartResult control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.ddB1_CounsName">
+	<summary>
+ddB1_CounsName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.RequiredFieldValidator3">
+	<summary>
+RequiredFieldValidator3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtB1_CounsDate">
+	<summary>
+txtB1_CounsDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.RequiredFieldValidator_txtB1_CounsDate">
+	<summary>
+RequiredFieldValidator_txtB1_CounsDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.CompCounsDate">
+	<summary>
+CompCounsDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.RegularExpressionValidator_txtB1_CounsDate">
+	<summary>
+RegularExpressionValidator_txtB1_CounsDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.ddB2_BleedDis">
+	<summary>
+ddB2_BleedDis control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.RequiredddB2_BleedDis">
+	<summary>
+RequiredddB2_BleedDis control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.ddB3_UrethDisch">
+	<summary>
+ddB3_UrethDisch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.RequiredddB3_UrethDisch">
+	<summary>
+RequiredddB3_UrethDisch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.ddB3_Gensore">
+	<summary>
+ddB3_Gensore control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.RequiredddB3_Gensore">
+	<summary>
+RequiredddB3_Gensore control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.ddB3_PainUrine">
+	<summary>
+ddB3_PainUrine control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.RequiredddB3_PainUrine">
+	<summary>
+RequiredddB3_PainUrine control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.ddB3_ScrotSwell">
+	<summary>
+ddB3_ScrotSwell control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.RequiredddB3_ScrotSwell">
+	<summary>
+RequiredddB3_ScrotSwell control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.ddB3_RectractfSkin">
+	<summary>
+ddB3_RectractfSkin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.RequiredddB3_RectractfSkin">
+	<summary>
+RequiredddB3_RectractfSkin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.ddB3_ReturnfSkin">
+	<summary>
+ddB3_ReturnfSkin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.RequiredddB3_ReturnfSkin">
+	<summary>
+RequiredddB3_ReturnfSkin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.ddB3_Erection">
+	<summary>
+ddB3_Erection control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.RequiredddB3_Erection">
+	<summary>
+RequiredddB3_Erection control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtB3_OtherSpecify">
+	<summary>
+txtB3_OtherSpecify control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.ddB4_Anaemia">
+	<summary>
+ddB4_Anaemia control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.RequiredddB4_Anaemia">
+	<summary>
+RequiredddB4_Anaemia control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.ddB4_Diabetes">
+	<summary>
+ddB4_Diabetes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.RequiredddB4_Diabetes">
+	<summary>
+RequiredddB4_Diabetes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.ddB4_HIVAids">
+	<summary>
+ddB4_HIVAids control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.RequiredddB4_HIVAids">
+	<summary>
+RequiredddB4_HIVAids control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtB4_OtherSpecify">
+	<summary>
+txtB4_OtherSpecify control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.ddB5_Allergy">
+	<summary>
+ddB5_Allergy control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.RequiredddB5_Allergy">
+	<summary>
+RequiredddB5_Allergy control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtB5_OtherSpecify">
+	<summary>
+txtB5_OtherSpecify control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.ddB6_Surgical">
+	<summary>
+ddB6_Surgical control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.RequiredddB6_Surgical">
+	<summary>
+RequiredddB6_Surgical control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtB6_OtherSpecify">
+	<summary>
+txtB6_OtherSpecify control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtB7_BP1">
+	<summary>
+txtB7_BP1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.RequiredtxtB7_BP1">
+	<summary>
+RequiredtxtB7_BP1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.Range_B7_BP1">
+	<summary>
+Range_B7_BP1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtB7_BP2">
+	<summary>
+txtB7_BP2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.RequiredtxtB7_BP2">
+	<summary>
+RequiredtxtB7_BP2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.RangeValidator_txtB7_BP2_">
+	<summary>
+RangeValidator_txtB7_BP2_ control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtB7_Pulse">
+	<summary>
+txtB7_Pulse control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.RequiredtxtB7_Pulse">
+	<summary>
+RequiredtxtB7_Pulse control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.RangetxtB7_Pulse">
+	<summary>
+RangetxtB7_Pulse control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtB7_Weight">
+	<summary>
+txtB7_Weight control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.RequiredtxtB7_Weight">
+	<summary>
+RequiredtxtB7_Weight control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.Range_txtB7_Weight">
+	<summary>
+Range_txtB7_Weight control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtB7_Temperature">
+	<summary>
+txtB7_Temperature control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.RequiredtxtB7_Temperature">
+	<summary>
+RequiredtxtB7_Temperature control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.RangetxtB7_Temperature">
+	<summary>
+RangetxtB7_Temperature control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.ddC1_Health">
+	<summary>
+ddC1_Health control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.RequiredddC1_Health">
+	<summary>
+RequiredddC1_Health control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.ddC2_Counseled">
+	<summary>
+ddC2_Counseled control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.RequiredddC2_Counseled">
+	<summary>
+RequiredddC2_Counseled control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.ddC3_Consent">
+	<summary>
+ddC3_Consent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.RequiredddC3_Consent">
+	<summary>
+RequiredddC3_Consent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtC3_Explain">
+	<summary>
+txtC3_Explain control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.pnl_MCProcedure">
+	<summary>
+pnl_MCProcedure control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtD1_MC_Date">
+	<summary>
+txtD1_MC_Date control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.ComptxtD1_MC_Date">
+	<summary>
+ComptxtD1_MC_Date control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.CompatxtD1_MC_Date1">
+	<summary>
+CompatxtD1_MC_Date1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.RegulartxtD1_MC_Date">
+	<summary>
+RegulartxtD1_MC_Date control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txD2_StartTime">
+	<summary>
+txD2_StartTime control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.RangetxD2_StartTimehh">
+	<summary>
+RangetxD2_StartTimehh control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txD2_StartTime2">
+	<summary>
+txD2_StartTime2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.RangetxD2_StartTime2MM">
+	<summary>
+RangetxD2_StartTime2MM control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txD3_EndTime">
+	<summary>
+txD3_EndTime control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.RangetxD3_EndTime2HH">
+	<summary>
+RangetxD3_EndTime2HH control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txD3_EndTime2">
+	<summary>
+txD3_EndTime2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.RangetxD3_EndTime2MM">
+	<summary>
+RangetxD3_EndTime2MM control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.lblDuration">
+	<summary>
+lblDuration control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtDuration">
+	<summary>
+txtDuration control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.lblD2_StartTime">
+	<summary>
+lblD2_StartTime control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.lblD3_EndTime">
+	<summary>
+lblD3_EndTime control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtD2_StartTime">
+	<summary>
+txtD2_StartTime control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtD3_EndTime">
+	<summary>
+txtD3_EndTime control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.ddD4_OPMedCode">
+	<summary>
+ddD4_OPMedCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.ddD5_Anaesthesia">
+	<summary>
+ddD5_Anaesthesia control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.ddD5_Concentration">
+	<summary>
+ddD5_Concentration control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtD5_Volume">
+	<summary>
+txtD5_Volume control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtD5_SpecifyOther">
+	<summary>
+txtD5_SpecifyOther control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.ddD6_Procedure">
+	<summary>
+ddD6_Procedure control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtD6_SpecifyOther">
+	<summary>
+txtD6_SpecifyOther control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.ddD7_AEDuring">
+	<summary>
+ddD7_AEDuring control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.ddD7_AEType">
+	<summary>
+ddD7_AEType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.ddD9_AESeverity">
+	<summary>
+ddD9_AESeverity control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.ddD10_Surgname">
+	<summary>
+ddD10_Surgname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtD11_SurgCadre">
+	<summary>
+txtD11_SurgCadre control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.ddD12_AssSurgname">
+	<summary>
+ddD12_AssSurgname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtD13_CadreAssSurg">
+	<summary>
+txtD13_CadreAssSurg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtE1_BP">
+	<summary>
+txtE1_BP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.RangetxtE1_BP">
+	<summary>
+RangetxtE1_BP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtE1_BP2">
+	<summary>
+txtE1_BP2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.Range_txtE1_BP">
+	<summary>
+Range_txtE1_BP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtE1_Pulse">
+	<summary>
+txtE1_Pulse control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.RangetxtE1_Pulse">
+	<summary>
+RangetxtE1_Pulse control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtE1_Temperature">
+	<summary>
+txtE1_Temperature control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.RangetxtE1_Temperature">
+	<summary>
+RangetxtE1_Temperature control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.ddE2_Medication">
+	<summary>
+ddE2_Medication control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.ddE3_PostInstruction">
+	<summary>
+ddE3_PostInstruction control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.ddE4_Dis_OfficerName">
+	<summary>
+ddE4_Dis_OfficerName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.txtE5_CadreAssSurg">
+	<summary>
+txtE5_CadreAssSurg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.cmdSave">
+	<summary>
+cmdSave control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.vmmc1.cmdFolloup">
+	<summary>
+cmdFolloup control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Dreams.head">
+	<summary>
+head control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Dreams.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Dreams.img">
+	<summary>
+img control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Dreams.longlogo">
+	<summary>
+longlogo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Dreams.Logo_long_msg">
+	<summary>
+Logo_long_msg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Dreams.IRDOLogo">
+	<summary>
+IRDOLogo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.Dreams.ContentPlaceHolder1">
+	<summary>
+ContentPlaceHolder1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.HMIS.Link1">
+	<summary>
+Link1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.HMIS.head">
+	<summary>
+head control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.HMIS.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.HMIS.IRDO">
+	<summary>
+IRDO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.HMIS.lblFullName">
+	<summary>
+lblFullName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.HMIS.DivMenu2">
+	<summary>
+DivMenu2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.HMIS.Menu2">
+	<summary>
+Menu2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.HMIS.facility">
+	<summary>
+facility control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.HMIS.lblDistrict">
+	<summary>
+lblDistrict control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.HMIS.lblFacility">
+	<summary>
+lblFacility control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.HMIS.lblFacilityCode">
+	<summary>
+lblFacilityCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.HMIS.lblErrorMsg">
+	<summary>
+lblErrorMsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.HMIS.Main">
+	<summary>
+Main control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.HMIS.lblMessage">
+	<summary>
+lblMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.HMIS.Footer">
+	<summary>
+Footer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Panel1">
+	<summary>
+Panel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtUniqueIdent">
+	<summary>
+txtUniqueIdent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.lblHeading">
+	<summary>
+lblHeading control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.lblHeader">
+	<summary>
+lblHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.lblResults">
+	<summary>
+lblResults control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.btn_elig">
+	<summary>
+btn_elig control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.btnDemo">
+	<summary>
+btnDemo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.btnMod1IndHH">
+	<summary>
+btnMod1IndHH control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.btnMod2Edu">
+	<summary>
+btnMod2Edu control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.BtnMod3HIV">
+	<summary>
+BtnMod3HIV control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.BtnMod4SexAct">
+	<summary>
+BtnMod4SexAct control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.BtnMod5RepHealth">
+	<summary>
+BtnMod5RepHealth control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.BtnMod6Gender">
+	<summary>
+BtnMod6Gender control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.BtnMod7NonPresc">
+	<summary>
+BtnMod7NonPresc control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.BtnMod7Prog">
+	<summary>
+BtnMod7Prog control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.MultiView1">
+	<summary>
+MultiView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.view_intro">
+	<summary>
+view_intro control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label4">
+	<summary>
+Label4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddPartnerId">
+	<summary>
+ddPartnerId control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.SqlDataSource2">
+	<summary>
+SqlDataSource2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ReqddPartnerId">
+	<summary>
+ReqddPartnerId control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddFacilityDistrict">
+	<summary>
+ddFacilityDistrict control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.SqlDataSource1">
+	<summary>
+SqlDataSource1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ReqddFacilityDistrict">
+	<summary>
+ReqddFacilityDistrict control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtFirstName">
+	<summary>
+txtFirstName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ReqtxtFirstName">
+	<summary>
+ReqtxtFirstName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label3">
+	<summary>
+Label3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtMiddleName">
+	<summary>
+txtMiddleName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ReqtxtMiddleName">
+	<summary>
+ReqtxtMiddleName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label5">
+	<summary>
+Label5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtLastName">
+	<summary>
+txtLastName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ReqtxtLastName">
+	<summary>
+ReqtxtLastName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label8">
+	<summary>
+Label8 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtDoB">
+	<summary>
+txtDoB control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.RegularExprtxtDoB">
+	<summary>
+RegularExprtxtDoB control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label9">
+	<summary>
+Label9 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtAge">
+	<summary>
+txtAge control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ReqtxtAge">
+	<summary>
+ReqtxtAge control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label10">
+	<summary>
+Label10 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtClientID">
+	<summary>
+txtClientID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ReqtxtClientID">
+	<summary>
+ReqtxtClientID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label6">
+	<summary>
+Label6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ1a_Aged10to24Yrs">
+	<summary>
+ddQ1a_Aged10to24Yrs control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ReqddQ1a_Aged10to24Yrs">
+	<summary>
+ReqddQ1a_Aged10to24Yrs control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label7">
+	<summary>
+Label7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ1b_Aged10to24Yrs_VerificationDoc">
+	<summary>
+ddQ1b_Aged10to24Yrs_VerificationDoc control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ReqddQ1b_Aged10to24Yrs_VerificationDoc">
+	<summary>
+ReqddQ1b_Aged10to24Yrs_VerificationDoc control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label11">
+	<summary>
+Label11 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ1c_Aged10to24Yrs_Other">
+	<summary>
+txtQ1c_Aged10to24Yrs_Other control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label12">
+	<summary>
+Label12 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ2a_ResidingInWard">
+	<summary>
+ddQ2a_ResidingInWard control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ReqddQ2a_ResidingInWard">
+	<summary>
+ReqddQ2a_ResidingInWard control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label13">
+	<summary>
+Label13 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ2b_ResidingInWardName">
+	<summary>
+ddQ2b_ResidingInWardName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ReqddQ2b_ResidingInWardName">
+	<summary>
+ReqddQ2b_ResidingInWardName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.SqlDataSource3">
+	<summary>
+SqlDataSource3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label14">
+	<summary>
+Label14 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ3_Aged10to17_Consent">
+	<summary>
+ddQ3_Aged10to17_Consent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ReqddQ3_Aged10to17_Consent">
+	<summary>
+ReqddQ3_Aged10to17_Consent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label15">
+	<summary>
+Label15 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ4_AgreedToEnrol">
+	<summary>
+ddQ4_AgreedToEnrol control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ReqddQ4_AgreedToEnrol">
+	<summary>
+ReqddQ4_AgreedToEnrol control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label16">
+	<summary>
+Label16 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ4_AgreedToEnrol_Comments">
+	<summary>
+txtQ4_AgreedToEnrol_Comments control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label17">
+	<summary>
+Label17 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ5_Status">
+	<summary>
+ddQ5_Status control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ReqddQ5_Status">
+	<summary>
+ReqddQ5_Status control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.cmdNext_s1">
+	<summary>
+cmdNext_s1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.View1">
+	<summary>
+View1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label18">
+	<summary>
+Label18 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtFullName">
+	<summary>
+txtFullName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ReqtxtFullName">
+	<summary>
+ReqtxtFullName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label19">
+	<summary>
+Label19 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtDreamsUniqueID">
+	<summary>
+txtDreamsUniqueID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ReqtxtDreamsUniqueID">
+	<summary>
+ReqtxtDreamsUniqueID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label20">
+	<summary>
+Label20 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ1_DoBVerification">
+	<summary>
+txtQ1_DoBVerification control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ReqtxtQ1_DoBVerification">
+	<summary>
+ReqtxtQ1_DoBVerification control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label130">
+	<summary>
+Label130 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtDoBDemo">
+	<summary>
+txtDoBDemo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label23">
+	<summary>
+Label23 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ2_DateOfEnrol">
+	<summary>
+txtQ2_DateOfEnrol control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ReqtxtQ2_DateOfEnrol">
+	<summary>
+ReqtxtQ2_DateOfEnrol control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label24">
+	<summary>
+Label24 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ3_AgeAtEnrol">
+	<summary>
+txtQ3_AgeAtEnrol control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ReqtxtQ3_AgeAtEnrol">
+	<summary>
+ReqtxtQ3_AgeAtEnrol control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label25">
+	<summary>
+Label25 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ4_MaritalStatus">
+	<summary>
+ddQ4_MaritalStatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ReqddQ4_MaritalStatus">
+	<summary>
+ReqddQ4_MaritalStatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label21">
+	<summary>
+Label21 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ5_PhoneNumber">
+	<summary>
+txtQ5_PhoneNumber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ReqtxtQ5_PhoneNumber">
+	<summary>
+ReqtxtQ5_PhoneNumber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label22">
+	<summary>
+Label22 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ6_DSSIDNumber">
+	<summary>
+txtQ6_DSSIDNumber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label35">
+	<summary>
+Label35 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ7c_WardID">
+	<summary>
+ddQ7c_WardID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ReqddQ7c_WardID">
+	<summary>
+ReqddQ7c_WardID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label36">
+	<summary>
+Label36 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ7a_CountyOfResidence">
+	<summary>
+txtQ7a_CountyOfResidence control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ReqtxtQ7a_CountyOfResidence">
+	<summary>
+ReqtxtQ7a_CountyOfResidence control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.lblSubCounty">
+	<summary>
+lblSubCounty control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ7b_SubCounty">
+	<summary>
+txtQ7b_SubCounty control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ReqtxtQ7b_SubCounty">
+	<summary>
+ReqtxtQ7b_SubCounty control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label37">
+	<summary>
+Label37 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ7d_WardName">
+	<summary>
+txtQ7d_WardName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ReqtxtQ7d_WardName">
+	<summary>
+ReqtxtQ7d_WardName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label38">
+	<summary>
+Label38 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ7e_InformalSettlement">
+	<summary>
+txtQ7e_InformalSettlement control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label39">
+	<summary>
+Label39 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ7f_Village">
+	<summary>
+txtQ7f_Village control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ReqtxtQ7f_Village">
+	<summary>
+ReqtxtQ7f_Village control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label40">
+	<summary>
+Label40 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ7fg_LandMark">
+	<summary>
+txtQ7fg_LandMark control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label26">
+	<summary>
+Label26 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ9a_PrimaryCareGiverName">
+	<summary>
+txtQ9a_PrimaryCareGiverName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label27">
+	<summary>
+Label27 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ9b_PrimaryCareGiverRelationship">
+	<summary>
+ddQ9b_PrimaryCareGiverRelationship control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ReqddQ9b_PrimaryCareGiverRelationship">
+	<summary>
+ReqddQ9b_PrimaryCareGiverRelationship control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label28">
+	<summary>
+Label28 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ9c_PrimaryCareGiverPhoneNumber">
+	<summary>
+txtQ9c_PrimaryCareGiverPhoneNumber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ReqtxtQ9c_PrimaryCareGiverPhoneNumber">
+	<summary>
+ReqtxtQ9c_PrimaryCareGiverPhoneNumber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label29">
+	<summary>
+Label29 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ9d_PrimaryCareGiverNationalId">
+	<summary>
+txtQ9d_PrimaryCareGiverNationalId control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ReqtxtQ9d_PrimaryCareGiverNationalId">
+	<summary>
+ReqtxtQ9d_PrimaryCareGiverNationalId control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.cmdPrev_dem">
+	<summary>
+cmdPrev_dem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.cmdNext_dem">
+	<summary>
+cmdNext_dem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.View2">
+	<summary>
+View2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label30">
+	<summary>
+Label30 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ101_HHHead">
+	<summary>
+ddQ101_HHHead control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ReqddQ101_HHHead">
+	<summary>
+ReqddQ101_HHHead control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label31">
+	<summary>
+Label31 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ101_HHHead_Other">
+	<summary>
+txtQ101_HHHead_Other control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label32">
+	<summary>
+Label32 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ102_HHHeadAge">
+	<summary>
+txtQ102_HHHeadAge control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ReqtxtQ102_HHHeadAge">
+	<summary>
+ReqtxtQ102_HHHeadAge control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label33">
+	<summary>
+Label33 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label34">
+	<summary>
+Label34 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ103_FatherAlive">
+	<summary>
+ddQ103_FatherAlive control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ReqddQ103_FatherAlive">
+	<summary>
+ReqddQ103_FatherAlive control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label41">
+	<summary>
+Label41 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ104_MOtherAlive">
+	<summary>
+ddQ104_MOtherAlive control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ReqddQ104_MOtherAlive">
+	<summary>
+ReqddQ104_MOtherAlive control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label42">
+	<summary>
+Label42 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ105_GuardParentChronicallyIll">
+	<summary>
+ddQ105_GuardParentChronicallyIll control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ReqddQ105_GuardParentChronicallyIll">
+	<summary>
+ReqddQ105_GuardParentChronicallyIll control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label43">
+	<summary>
+Label43 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label44">
+	<summary>
+Label44 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ106_MaterialFloor">
+	<summary>
+ddQ106_MaterialFloor control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ReqddQ106_MaterialFloor">
+	<summary>
+ReqddQ106_MaterialFloor control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label45">
+	<summary>
+Label45 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ106_MaterialFloor_Other">
+	<summary>
+txtQ106_MaterialFloor_Other control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label46">
+	<summary>
+Label46 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ107_MaterialRoof">
+	<summary>
+ddQ107_MaterialRoof control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ReqddQ107_MaterialRoof">
+	<summary>
+ReqddQ107_MaterialRoof control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label47">
+	<summary>
+Label47 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ107_MaterialRoof_Other">
+	<summary>
+txtQ107_MaterialRoof_Other control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label48">
+	<summary>
+Label48 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ108_MaterialWall">
+	<summary>
+ddQ108_MaterialWall control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ReqddQ108_MaterialWall">
+	<summary>
+ReqddQ108_MaterialWall control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label49">
+	<summary>
+Label49 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ108_MaterialWall_Other">
+	<summary>
+txtQ108_MaterialWall_Other control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label50">
+	<summary>
+Label50 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.dd109_SourceDrinkingWater">
+	<summary>
+dd109_SourceDrinkingWater control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Reqdd109_SourceDrinkingWater">
+	<summary>
+Reqdd109_SourceDrinkingWater control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label51">
+	<summary>
+Label51 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ109_SourceDrinkingWater_Other">
+	<summary>
+txtQ109_SourceDrinkingWater_Other control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label52">
+	<summary>
+Label52 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ110_WithoutFood">
+	<summary>
+ddQ110_WithoutFood control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ReqddQ110_WithoutFood">
+	<summary>
+ReqddQ110_WithoutFood control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label53">
+	<summary>
+Label53 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ111_WithoutFoodFrequency">
+	<summary>
+ddQ111_WithoutFoodFrequency control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ReqddQ111_WithoutFoodFrequency">
+	<summary>
+ReqddQ111_WithoutFoodFrequency control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label54">
+	<summary>
+Label54 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ112_Disability">
+	<summary>
+ddQ112_Disability control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ReqddQ112_Disability">
+	<summary>
+ReqddQ112_Disability control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label55">
+	<summary>
+Label55 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label56">
+	<summary>
+Label56 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.chkQ113_DisabilityType_Hearing">
+	<summary>
+chkQ113_DisabilityType_Hearing control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.chkQ113_DisabilityType_Speech">
+	<summary>
+chkQ113_DisabilityType_Speech control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ113_DisabilityType_Visual">
+	<summary>
+ChkQ113_DisabilityType_Visual control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ113_DisabilityType_Mental">
+	<summary>
+ChkQ113_DisabilityType_Mental control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ113_DisabilityType_Physica">
+	<summary>
+ChkQ113_DisabilityType_Physica control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ113_DisabilityType_Other">
+	<summary>
+ChkQ113_DisabilityType_Other control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ113_DisabilityType_OtherSpecify">
+	<summary>
+txtQ113_DisabilityType_OtherSpecify control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label57">
+	<summary>
+Label57 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ114_HHPeopleNumber">
+	<summary>
+txtQ114_HHPeopleNumber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ReqtxtQ114_HHPeopleNumber">
+	<summary>
+ReqtxtQ114_HHPeopleNumber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ114a_HHPeopleNumberFemales">
+	<summary>
+txtQ114a_HHPeopleNumberFemales control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ114b_HHPeopleNumberMales">
+	<summary>
+txtQ114b_HHPeopleNumberMales control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ114c_HHPeopleNumberAdults">
+	<summary>
+txtQ114c_HHPeopleNumberAdults control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ114d_HHPeopleNumberChildren">
+	<summary>
+txtQ114d_HHPeopleNumberChildren control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label58">
+	<summary>
+Label58 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ115_CashTransferEverEnrolled">
+	<summary>
+ddQ115_CashTransferEverEnrolled control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ReqddQ115_CashTransferEverEnrolled">
+	<summary>
+ReqddQ115_CashTransferEverEnrolled control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label59">
+	<summary>
+Label59 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label60">
+	<summary>
+Label60 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ116_CashTransferCurrentlyEnrolled">
+	<summary>
+ddQ116_CashTransferCurrentlyEnrolled control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label61">
+	<summary>
+Label61 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ117_CashTransferProgramEnrolled">
+	<summary>
+txtQ117_CashTransferProgramEnrolled control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.View3">
+	<summary>
+View3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label62">
+	<summary>
+Label62 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ201_GoToSchool">
+	<summary>
+ddQ201_GoToSchool control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.RequiredFieldValidator1">
+	<summary>
+RequiredFieldValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label63">
+	<summary>
+Label63 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label64">
+	<summary>
+Label64 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ202_SchoolName">
+	<summary>
+txtQ202_SchoolName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label65">
+	<summary>
+Label65 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ202a_GoToSchool_Formal">
+	<summary>
+ddQ202a_GoToSchool_Formal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label66">
+	<summary>
+Label66 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ203a_SchoolLevel">
+	<summary>
+ddQ203a_SchoolLevel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label67">
+	<summary>
+Label67 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ203b_SchoolLevelClassForm">
+	<summary>
+txtQ203b_SchoolLevelClassForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.TextBox1">
+	<summary>
+TextBox1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label82">
+	<summary>
+Label82 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ204_EducationSupport_Government">
+	<summary>
+ChkQ204_EducationSupport_Government control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ204_EducationSupport_NGO">
+	<summary>
+ChkQ204_EducationSupport_NGO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ204_EducationSupport_FaithBased">
+	<summary>
+ChkQ204_EducationSupport_FaithBased control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ204_EducationSupport_Relatives">
+	<summary>
+ChkQ204_EducationSupport_Relatives control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ204_EducationSupport_None">
+	<summary>
+ChkQ204_EducationSupport_None control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ204_EducationSupport_Other">
+	<summary>
+ChkQ204_EducationSupport_Other control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ204_EducationSupport_OtherSpecify">
+	<summary>
+txtQ204_EducationSupport_OtherSpecify control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label68">
+	<summary>
+Label68 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ205_SchoolGoingReason">
+	<summary>
+ddQ205_SchoolGoingReason control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label69">
+	<summary>
+Label69 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ205_SchoolGoingReason_Other">
+	<summary>
+txtQ205_SchoolGoingReason_Other control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label83">
+	<summary>
+Label83 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ206_LastTimeSchool">
+	<summary>
+ddQ206_LastTimeSchool control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label70">
+	<summary>
+Label70 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ207_StopSchool">
+	<summary>
+ddQ207_StopSchool control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label71">
+	<summary>
+Label71 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ207_StopSchoolClassForm">
+	<summary>
+txtQ207_StopSchoolClassForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label72">
+	<summary>
+Label72 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ208_WishToDoWithLife">
+	<summary>
+ddQ208_WishToDoWithLife control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label73">
+	<summary>
+Label73 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ208_WishToDoWithLife_Other">
+	<summary>
+txtQ208_WishToDoWithLife_Other control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label74">
+	<summary>
+Label74 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ209_MainSourceIncome">
+	<summary>
+ddQ209_MainSourceIncome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label75">
+	<summary>
+Label75 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ209_MainSourceIncome_Other">
+	<summary>
+txtQ209_MainSourceIncome_Other control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label76">
+	<summary>
+Label76 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ210_AnySavings">
+	<summary>
+ddQ210_AnySavings control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label77">
+	<summary>
+Label77 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ211_KeepSavings_AtHome">
+	<summary>
+ChkQ211_KeepSavings_AtHome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ211_KeepSavings_TableBanking">
+	<summary>
+ChkQ211_KeepSavings_TableBanking control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ211_KeepSavingsInTheBank">
+	<summary>
+ChkQ211_KeepSavingsInTheBank control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Checkbox6">
+	<summary>
+Checkbox6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.TextBox2">
+	<summary>
+TextBox2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Button2">
+	<summary>
+Button2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.View4">
+	<summary>
+View4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label78">
+	<summary>
+Label78 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ301_EverTestedBefore">
+	<summary>
+ddQ301_EverTestedBefore control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label79">
+	<summary>
+Label79 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label80">
+	<summary>
+Label80 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ302_WhenLastHIVTest">
+	<summary>
+ddQ302_WhenLastHIVTest control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label81">
+	<summary>
+Label81 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label84">
+	<summary>
+Label84 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ303_ResultLastHIVTest">
+	<summary>
+ddQ303_ResultLastHIVTest control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label85">
+	<summary>
+Label85 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ304_IfPositive">
+	<summary>
+ddQ304_IfPositive control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label86">
+	<summary>
+Label86 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ305a_SeekCareFacilityCode">
+	<summary>
+ddQ305a_SeekCareFacilityCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label87">
+	<summary>
+Label87 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ305c_SeekCareFacilityName_Other">
+	<summary>
+txtQ305c_SeekCareFacilityName_Other control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label88">
+	<summary>
+Label88 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ306_NotSeekCareReason">
+	<summary>
+ddQ306_NotSeekCareReason control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label89">
+	<summary>
+Label89 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ306_NotSeekCareReason_Other">
+	<summary>
+txtQ306_NotSeekCareReason_Other control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label100">
+	<summary>
+Label100 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ307_WhyNeverTestedBefore_NoKnowledge">
+	<summary>
+ChkQ307_WhyNeverTestedBefore_NoKnowledge control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ307_WhyNeverTestedBefore_DontKnowWhere">
+	<summary>
+ChkQ307_WhyNeverTestedBefore_DontKnowWhere control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ307_WhyNeverTestedBefore_CantAfford">
+	<summary>
+ChkQ307_WhyNeverTestedBefore_CantAfford control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ307_WhyNeverTestedBefore_Transport">
+	<summary>
+ChkQ307_WhyNeverTestedBefore_Transport control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ307_WhyNeverTestedBefore_FacilityFar">
+	<summary>
+ChkQ307_WhyNeverTestedBefore_FacilityFar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ307_WhyNeverTestedBefore_IMAfraidOthers">
+	<summary>
+ChkQ307_WhyNeverTestedBefore_IMAfraidOthers control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ307_WhyNeverTestedBefore_LowRisk">
+	<summary>
+ChkQ307_WhyNeverTestedBefore_LowRisk control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ307_WhyNeverTestedBefore_AfraidToKnow">
+	<summary>
+ChkQ307_WhyNeverTestedBefore_AfraidToKnow control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ307_WhyNeverTestedBefore_Busy">
+	<summary>
+ChkQ307_WhyNeverTestedBefore_Busy control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ307_WhyNeverTestedBefore_Other">
+	<summary>
+ChkQ307_WhyNeverTestedBefore_Other control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ307_WhyNeverTestedBefore_OtherSpecify">
+	<summary>
+txtQ307_WhyNeverTestedBefore_OtherSpecify control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label101">
+	<summary>
+Label101 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ308_KnowPlaceHIVTest">
+	<summary>
+ddQ308_KnowPlaceHIVTest control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Button4">
+	<summary>
+Button4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.View5">
+	<summary>
+View5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label90">
+	<summary>
+Label90 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ401_EverHadSex">
+	<summary>
+ddQ401_EverHadSex control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label91">
+	<summary>
+Label91 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label92">
+	<summary>
+Label92 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ402_AgeFirstSex_Years">
+	<summary>
+txtQ402_AgeFirstSex_Years control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label93">
+	<summary>
+Label93 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label94">
+	<summary>
+Label94 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ403_SexualPartnersNo">
+	<summary>
+txtQ403_SexualPartnersNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label95">
+	<summary>
+Label95 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ404_CurrentEverHadSex">
+	<summary>
+ddQ404_CurrentEverHadSex control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ405a_SexualPartnersLast">
+	<summary>
+ddQ405a_SexualPartnersLast control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ405b_SexualPartnersSecondLast">
+	<summary>
+ddQ405b_SexualPartnersSecondLast control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ405c_SexualPartnersThirdLast">
+	<summary>
+ddQ405c_SexualPartnersThirdLast control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ406a_CircumcisedSexualPartnersLast">
+	<summary>
+ddQ406a_CircumcisedSexualPartnersLast control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ406b_CircumcisedSexualPartnersSecondLast">
+	<summary>
+ddQ406b_CircumcisedSexualPartnersSecondLast control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ406c_CircumcisedSexualPartnersThirdLast">
+	<summary>
+ddQ406c_CircumcisedSexualPartnersThirdLast control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ407a_HIVStatusSexualPartnersLast">
+	<summary>
+ddQ407a_HIVStatusSexualPartnersLast control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ407b_HIVStatusSexualPartnersSecondLast">
+	<summary>
+ddQ407b_HIVStatusSexualPartnersSecondLast control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ407c_HIVStatusSexualPartnersThirdLast">
+	<summary>
+ddQ407c_HIVStatusSexualPartnersThirdLast control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ408a_CondomSexualPartnersLast">
+	<summary>
+ddQ408a_CondomSexualPartnersLast control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ408b_CondomSexualPartnersSecondLast">
+	<summary>
+ddQ408b_CondomSexualPartnersSecondLast control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ408c_CondomSexualPartnersThirdLast">
+	<summary>
+ddQ408c_CondomSexualPartnersThirdLast control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label103">
+	<summary>
+Label103 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ409_RecivedGift">
+	<summary>
+ddQ409_RecivedGift control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Button5">
+	<summary>
+Button5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.View6">
+	<summary>
+View6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label96">
+	<summary>
+Label96 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ501_BiologicalChildren">
+	<summary>
+ddQ501_BiologicalChildren control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label97">
+	<summary>
+Label97 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label98">
+	<summary>
+Label98 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ502_BiologicalChildren_Specify">
+	<summary>
+txtQ502_BiologicalChildren_Specify control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label99">
+	<summary>
+Label99 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label102">
+	<summary>
+Label102 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ503_CurrentlyPregnant">
+	<summary>
+ddQ503_CurrentlyPregnant control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label104">
+	<summary>
+Label104 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ504_AttendingANC">
+	<summary>
+ddQ504_AttendingANC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label107">
+	<summary>
+Label107 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ505_AttendingANCClinicCode">
+	<summary>
+ddQ505_AttendingANCClinicCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label108">
+	<summary>
+Label108 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ505_AttendingANCClinicName">
+	<summary>
+txtQ505_AttendingANCClinicName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label105">
+	<summary>
+Label105 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ506_AwareFamilyPlanMethods">
+	<summary>
+ddQ506_AwareFamilyPlanMethods control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label106">
+	<summary>
+Label106 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label109">
+	<summary>
+Label109 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ507_FamilyPlanMethodsYouKnow_Pills">
+	<summary>
+ChkQ507_FamilyPlanMethodsYouKnow_Pills control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ507_FamilyPlanMethodsYouKnow_Injectable">
+	<summary>
+ChkQ507_FamilyPlanMethodsYouKnow_Injectable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.chkQ507_FamilyPlanMethodsYouKnow_Implants">
+	<summary>
+chkQ507_FamilyPlanMethodsYouKnow_Implants control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ507_FamilyPlanMethodsYouKnow_IUCD">
+	<summary>
+ChkQ507_FamilyPlanMethodsYouKnow_IUCD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ507_FamilyPlanMethodsYouKnow_Condom">
+	<summary>
+ChkQ507_FamilyPlanMethodsYouKnow_Condom control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ507_FamilyPlanMethodsYouKnow_Permanent">
+	<summary>
+ChkQ507_FamilyPlanMethodsYouKnow_Permanent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ507_FamilyPlanMethodsYouKnow_Other">
+	<summary>
+ChkQ507_FamilyPlanMethodsYouKnow_Other control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ507_FamilyPlanMethodsYouKnow_OtherSpecify">
+	<summary>
+txtQ507_FamilyPlanMethodsYouKnow_OtherSpecify control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label110">
+	<summary>
+Label110 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ508_FamilyPlanMethodsModern">
+	<summary>
+ddQ508_FamilyPlanMethodsModern control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label111">
+	<summary>
+Label111 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ509_FamilyPlanMethodsModernCurrent_Pills">
+	<summary>
+ChkQ509_FamilyPlanMethodsModernCurrent_Pills control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ509_FamilyPlanMethodsModernCurrent_Injectable">
+	<summary>
+ChkQ509_FamilyPlanMethodsModernCurrent_Injectable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ509_FamilyPlanMethodsModernCurrent_Implants">
+	<summary>
+ChkQ509_FamilyPlanMethodsModernCurrent_Implants control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ509_FamilyPlanMethodsModernCurrent_IUCD">
+	<summary>
+ChkQ509_FamilyPlanMethodsModernCurrent_IUCD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ509_FamilyPlanMethodsModernCurrent_Condom">
+	<summary>
+ChkQ509_FamilyPlanMethodsModernCurrent_Condom control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ509_FamilyPlanMethodsModernCurrent_Permanent">
+	<summary>
+ChkQ509_FamilyPlanMethodsModernCurrent_Permanent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ509_FamilyPlanMethodsModernCurrent_Other">
+	<summary>
+ChkQ509_FamilyPlanMethodsModernCurrent_Other control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ509_FamilyPlanMethodsModernCurrent_OtherSpecify">
+	<summary>
+txtQ509_FamilyPlanMethodsModernCurrent_OtherSpecify control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label112">
+	<summary>
+Label112 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ510_FamilyPlanMethodsNotUsing">
+	<summary>
+ddQ510_FamilyPlanMethodsNotUsing control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label113">
+	<summary>
+Label113 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ510_FamilyPlanMethodsNotUsing_Other">
+	<summary>
+txtQ510_FamilyPlanMethodsNotUsing_Other control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Button6">
+	<summary>
+Button6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.View7">
+	<summary>
+View7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ601a_Humiliate_ever">
+	<summary>
+ddQ601a_Humiliate_ever control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ601b_Humiliate_Last3Months">
+	<summary>
+ddQ601b_Humiliate_Last3Months control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ602a_Threatened_ever">
+	<summary>
+ddQ602a_Threatened_ever control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ602b_Threatened_Last3Months">
+	<summary>
+ddQ602b_Threatened_Last3Months control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ603a_Insulated_ever">
+	<summary>
+ddQ603a_Insulated_ever control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ603b_Insulated_Last3Months">
+	<summary>
+ddQ603b_Insulated_Last3Months control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ604a_ThreatenedEcon_ever">
+	<summary>
+ddQ604a_ThreatenedEcon_ever control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ604b_ThreatenedEcon_Last3Months">
+	<summary>
+ddQ604b_ThreatenedEcon_Last3Months control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ605a_PushHurt_ever">
+	<summary>
+ddQ605a_PushHurt_ever control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ605b_PushHurt_Last3Months">
+	<summary>
+ddQ605b_PushHurt_Last3Months control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ606a_ForcedSex_ever">
+	<summary>
+ddQ606a_ForcedSex_ever control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ606b_ForcedSex_Last3Months">
+	<summary>
+ddQ606b_ForcedSex_Last3Months control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ607a_ForcedOtherSex_ever">
+	<summary>
+ddQ607a_ForcedOtherSex_ever control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ607b_ForcedOtherSex_Last3Months">
+	<summary>
+ddQ607b_ForcedOtherSex_Last3Months control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ608a_ForcedOtherWaySex_ever">
+	<summary>
+ddQ608a_ForcedOtherWaySex_ever control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ608b_ForcedOtherWaySex_Last3Months">
+	<summary>
+ddQ608b_ForcedOtherWaySex_Last3Months control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label120">
+	<summary>
+Label120 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ609_SeekHelp">
+	<summary>
+ddQ609_SeekHelp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label114">
+	<summary>
+Label114 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ610_SeekHelpWhere_MyFamily">
+	<summary>
+ChkQ610_SeekHelpWhere_MyFamily control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ610_SeekHelpWhere_Husband">
+	<summary>
+ChkQ610_SeekHelpWhere_Husband control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ610_SeekHelpWhere_Friend">
+	<summary>
+ChkQ610_SeekHelpWhere_Friend control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ610_SeekHelpWhere_Neighbour">
+	<summary>
+ChkQ610_SeekHelpWhere_Neighbour control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ610_SeekHelpWhere_ReligiousLeader">
+	<summary>
+ChkQ610_SeekHelpWhere_ReligiousLeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ610_SeekHelpWhere_Doctor">
+	<summary>
+ChkQ610_SeekHelpWhere_Doctor control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ610_SeekHelpWhere_Chief">
+	<summary>
+ChkQ610_SeekHelpWhere_Chief control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ610_SeekHelpWhere_Police">
+	<summary>
+ChkQ610_SeekHelpWhere_Police control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ610_SeekHelpWhere_JusticeSystem">
+	<summary>
+ChkQ610_SeekHelpWhere_JusticeSystem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ610_SeekHelpWhere_NGOCBO">
+	<summary>
+ChkQ610_SeekHelpWhere_NGOCBO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ610_SeekHelpWhere_Other">
+	<summary>
+ChkQ610_SeekHelpWhere_Other control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ610_SeekHelpWhere_OtherSpecify">
+	<summary>
+txtQ610_SeekHelpWhere_OtherSpecify control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label115">
+	<summary>
+Label115 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ611_SeekHelpKnowWhere">
+	<summary>
+ddQ611_SeekHelpKnowWhere control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label116">
+	<summary>
+Label116 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ612_SeekHelpSource_MyFamily">
+	<summary>
+ChkQ612_SeekHelpSource_MyFamily control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ612_SeekHelpSource_Husband">
+	<summary>
+ChkQ612_SeekHelpSource_Husband control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ612_SeekHelpSource_Friend">
+	<summary>
+ChkQ612_SeekHelpSource_Friend control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ612_SeekHelpSource_Neighbour">
+	<summary>
+ChkQ612_SeekHelpSource_Neighbour control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ612_SeekHelpSource_ReligiousLeader">
+	<summary>
+ChkQ612_SeekHelpSource_ReligiousLeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ612_SeekHelpSource_Doctor">
+	<summary>
+ChkQ612_SeekHelpSource_Doctor control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ612_SeekHelpSource_Chief">
+	<summary>
+ChkQ612_SeekHelpSource_Chief control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ612_SeekHelpSource_Police">
+	<summary>
+ChkQ612_SeekHelpSource_Police control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ612_SeekHelpSource_JusticeSystem">
+	<summary>
+ChkQ612_SeekHelpSource_JusticeSystem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ612_SeekHelpSource_NGOCBO">
+	<summary>
+ChkQ612_SeekHelpSource_NGOCBO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ612_SekHelpSource_Other3">
+	<summary>
+ChkQ612_SekHelpSource_Other3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ612_SeekHelpSource_OtherSpecify">
+	<summary>
+txtQ612_SeekHelpSource_OtherSpecify control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Button7">
+	<summary>
+Button7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.View8">
+	<summary>
+View8 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label117">
+	<summary>
+Label117 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ701_AlcoholUse">
+	<summary>
+ddQ701_AlcoholUse control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label118">
+	<summary>
+Label118 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label119">
+	<summary>
+Label119 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ702_DrinkAlcoholPastYr">
+	<summary>
+ddQ702_DrinkAlcoholPastYr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label121">
+	<summary>
+Label121 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label122">
+	<summary>
+Label122 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ703_DrugUsePastYr">
+	<summary>
+ddQ703_DrugUsePastYr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label124">
+	<summary>
+Label124 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ704_AddictionPastYr">
+	<summary>
+ddQ704_AddictionPastYr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label125">
+	<summary>
+Label125 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ704_AddictionPastYr_Other">
+	<summary>
+txtQ704_AddictionPastYr_Other control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label126">
+	<summary>
+Label126 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ705_BrewingSellingPastYr">
+	<summary>
+ddQ705_BrewingSellingPastYr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label127">
+	<summary>
+Label127 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Button8">
+	<summary>
+Button8 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.View9">
+	<summary>
+View9 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label128">
+	<summary>
+Label128 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ801_Participate_None">
+	<summary>
+ChkQ801_Participate_None control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ801_Participate_HCBF">
+	<summary>
+ChkQ801_Participate_HCBF control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ801_Participate_MHMC">
+	<summary>
+ChkQ801_Participate_MHMC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ801_Participate_RespectK">
+	<summary>
+ChkQ801_Participate_RespectK control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ801_Participate_Shuga">
+	<summary>
+ChkQ801_Participate_Shuga control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ801_Participate_SS_K">
+	<summary>
+ChkQ801_Participate_SS_K control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ801_Participate_MLRC">
+	<summary>
+ChkQ801_Participate_MLRC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ChkQ801_Participate_FMP">
+	<summary>
+ChkQ801_Participate_FMP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Checkbox12">
+	<summary>
+Checkbox12 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ801_Participate_OtherSpecify">
+	<summary>
+txtQ801_Participate_OtherSpecify control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label123">
+	<summary>
+Label123 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ802_Comments">
+	<summary>
+txtQ802_Comments control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label129">
+	<summary>
+Label129 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.ddQ803_EnrolledByID">
+	<summary>
+ddQ803_EnrolledByID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Label131">
+	<summary>
+Label131 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.txtQ803_EnrolledDate">
+	<summary>
+txtQ803_EnrolledDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.Button9">
+	<summary>
+Button9 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.enrol.View10">
+	<summary>
+View10 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.lblFacilityDistrict">
+	<summary>
+lblFacilityDistrict control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.lblDistricCode">
+	<summary>
+lblDistricCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.lblPersonDistrict">
+	<summary>
+lblPersonDistrict control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.ddPersonDistrict">
+	<summary>
+ddPersonDistrict control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.lblRegDate">
+	<summary>
+lblRegDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.txtRegDate">
+	<summary>
+txtRegDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.lblClientNumber">
+	<summary>
+lblClientNumber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.txtClientNo">
+	<summary>
+txtClientNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.lblIRDOReference">
+	<summary>
+lblIRDOReference control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.txtIRDOReference">
+	<summary>
+txtIRDOReference control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.lblSurname">
+	<summary>
+lblSurname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.txtSurname">
+	<summary>
+txtSurname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.lblOthernames">
+	<summary>
+lblOthernames control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.txtOthernames">
+	<summary>
+txtOthernames control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.ddgender">
+	<summary>
+ddgender control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.TxtDOB">
+	<summary>
+TxtDOB control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.txtAge">
+	<summary>
+txtAge control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.lblAge">
+	<summary>
+lblAge control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.txtMonths">
+	<summary>
+txtMonths control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.Label3">
+	<summary>
+Label3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.lblContactInfo">
+	<summary>
+lblContactInfo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.lblLocation">
+	<summary>
+lblLocation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.ddLocation">
+	<summary>
+ddLocation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.lblDivision">
+	<summary>
+lblDivision control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.ddDivision">
+	<summary>
+ddDivision control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.lblDistrict">
+	<summary>
+lblDistrict control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.ddDistrict">
+	<summary>
+ddDistrict control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.lblNearestHF">
+	<summary>
+lblNearestHF control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.ddNearestHF">
+	<summary>
+ddNearestHF control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.lblPhoneNo">
+	<summary>
+lblPhoneNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.txtPhoneNo">
+	<summary>
+txtPhoneNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.lblIDNo">
+	<summary>
+lblIDNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.txtIDNo">
+	<summary>
+txtIDNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.lblEducatLevel">
+	<summary>
+lblEducatLevel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.ddEducatLevel">
+	<summary>
+ddEducatLevel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.lblReligion">
+	<summary>
+lblReligion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.ddReligion">
+	<summary>
+ddReligion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.lblRelOther">
+	<summary>
+lblRelOther control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.txtRelOther">
+	<summary>
+txtRelOther control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.lblMaritalStatus">
+	<summary>
+lblMaritalStatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.ddMaritalStatus">
+	<summary>
+ddMaritalStatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.lblCardIssuer">
+	<summary>
+lblCardIssuer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.txtCardIssuer">
+	<summary>
+txtCardIssuer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.lblRecruitingIntv">
+	<summary>
+lblRecruitingIntv control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS.test.ddRecruitingIntv">
+	<summary>
+ddRecruitingIntv control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS._default.lblFacilityError">
+	<summary>
+lblFacilityError control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS._default.Login1">
+	<summary>
+Login1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS._default.lblusername">
+	<summary>
+lblusername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS._default.pnlTemp">
+	<summary>
+pnlTemp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS._default.lblFacilityDistrict">
+	<summary>
+lblFacilityDistrict control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HMIS._default.lblFacilityCode">
+	<summary>
+lblFacilityCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>
